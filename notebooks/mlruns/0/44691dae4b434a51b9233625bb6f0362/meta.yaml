@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Kifya/Week_5/credit-risk-model/notebooks/mlruns/0/44691dae4b434a51b9233625bb6f0362/artifacts
+end_time: 1751621155663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44691dae4b434a51b9233625bb6f0362
+run_name: random-forest-classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751621147315
+status: 3
+tags: []
+user_id: hp

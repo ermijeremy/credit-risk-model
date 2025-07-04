@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hp/Desktop/Kifya/Week_5/credit-risk-model/notebooks/mlruns/0/models/m-05a419a8c384441b82ed6b2ada42fb6a/artifacts
+creation_timestamp: 1751620789610
+experiment_id: '0'
+last_updated_timestamp: 1751620796113
+model_id: m-05a419a8c384441b82ed6b2ada42fb6a
+model_type: null
+name: model
+source_run_id: c5036597dad441ec91d527f442edc9fa
+status: 2
+status_message: null
