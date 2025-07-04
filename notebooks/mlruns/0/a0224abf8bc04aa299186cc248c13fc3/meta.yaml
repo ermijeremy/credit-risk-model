@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Kifya/Week_5/credit-risk-model/notebooks/mlruns/0/a0224abf8bc04aa299186cc248c13fc3/artifacts
+end_time: 1751620454824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0224abf8bc04aa299186cc248c13fc3
+run_name: logistic-regression-woe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751620454649
+status: 4
+tags: []
+user_id: hp

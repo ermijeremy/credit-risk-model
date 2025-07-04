@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Kifya/Week_5/credit-risk-model/notebooks/mlruns/0/c5036597dad441ec91d527f442edc9fa/artifacts
+end_time: 1751620796180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5036597dad441ec91d527f442edc9fa
+run_name: XGB-classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751620788651
+status: 3
+tags: []
+user_id: hp
