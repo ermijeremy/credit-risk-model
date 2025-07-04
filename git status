@@ -1,0 +1,35 @@
+[33mcommit 27ce4e0a659e023b5a218913d05cfc987fd8a99e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtask-5[m[33m, [m[1;31morigin/task-4[m[33m, [m[1;32mtask-4[m[33m)[m
+Author: ermias <ermiaskindalem97@gmail.com>
+Date:   Wed Jul 2 12:08:29 2025 +0300
+
+     python script for RFM Metrics added
+
+[33mcommit 0025946b0b3d87eb05b13d9ed895027209a0f579[m[33m ([m[1;31morigin/task-3[m[33m, [m[1;32mtask-3[m[33m)[m
+Author: ermias <ermiaskindalem97@gmail.com>
+Date:   Wed Jul 2 11:24:21 2025 +0300
+
+     python script for feature engineering added
+
+[33mcommit aa90c28332adeb1ea62631b02c09b7ca77600118[m[33m ([m[1;31morigin/task-2[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mtask-2[m[33m, [m[1;32mmain[m[33m)[m
+Author: ermias <ermiaskindalem97@gmail.com>
+Date:   Mon Jun 30 13:46:43 2025 +0300
+
+     adding the notebook used during eda
+
+[33mcommit 1fe61ca4207dcafbd54052e57dc4ea6e337e3962[m[33m ([m[1;31morigin/task-1[m[33m, [m[1;32mtask-1[m[33m)[m
+Author: ermias <ermiaskindalem97@gmail.com>
+Date:   Mon Jun 30 12:53:25 2025 +0300
+
+     updating README.md file
+
+[33mcommit dc866c34f80c4357ea660b5fefd6f526f1fb0081[m
+Author: ermias <ermiaskindalem97@gmail.com>
+Date:   Mon Jun 30 12:50:42 2025 +0300
+
+     updating README.md file
+
+[33mcommit 3a6e103e79174b9cdb21f3b06b9ab595daea15d7[m
+Author: ermias <ermiaskindalem97@gmail.com>
+Date:   Mon Jun 30 12:07:31 2025 +0300
+
+    update
