@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hp/Desktop/Kifya/Week_5/credit-risk-model/notebooks/mlruns/0/models/m-eeab69f795d04c468adaf533d0595b2e/artifacts
+creation_timestamp: 1755631255373
+experiment_id: '0'
+last_updated_timestamp: 1755631263349
+model_id: m-eeab69f795d04c468adaf533d0595b2e
+model_type: null
+name: logistic-regression-woe-model
+source_run_id: caf22f3a08624b65a487d8a8309d7a48
+status: 2
+status_message: null
